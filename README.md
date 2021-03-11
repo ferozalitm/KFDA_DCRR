@@ -2,6 +2,8 @@
 T M Feroz Ali, Kalpesh K Patel, Rajbabu Velmurugan, Subhasis Chaudhuri
 
 KFDA: Kernel Fisher Discriminant Analysis
+
 NP-MFML: N-Proportionally weighted Multiple Kernel Fisher Discriminant Metric Learning
+
 DCRR: Dual Cross-view Reciprocal Re-ranking
 
