@@ -1,2 +1,2 @@
-# KFDA_DCRR
+# KFDA_NPMFML_DCRR
 Multiple Kernel Metric Learning and Dual Cross-View Re-ranking for Small Scale Person Re-identiffication
